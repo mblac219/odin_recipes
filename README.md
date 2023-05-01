@@ -1,3 +1,3 @@
 # odin_recipes
 ## Objective
-The goal was display skills learned up until this point on HTML and Git/Github.  I was taked with creating a recipe home page with additonal HTML pages with different recipes.  
+The goal was to display skills learned up until this point on HTML and Git/Github.  I was tasked with creating a recipe home page and additonal HTML pages for different recipes.  
